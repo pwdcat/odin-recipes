@@ -16,5 +16,6 @@ Usage
     Access the website through your web browser.
 
 Project Structure
+
     /recipes: HTML code files for the recipes
     /recipes/images: Holds images used for recipe visuals.
