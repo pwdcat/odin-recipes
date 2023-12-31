@@ -1,6 +1,4 @@
 # odin-recipes
-Odin Recipes
-
 Description
 
 A website featuring a collection of three recipes. Each recipe link directs you to a page with a description, ingredients list, and step-by-step instructions to prepare the dish.
